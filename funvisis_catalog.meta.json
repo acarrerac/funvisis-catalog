@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-08-17T07:19:21Z",
-  "rows": 23624,
+  "generated_utc": "2026-08-17T13:10:09Z",
+  "rows": 23627,
   "time_range": {
     "min": "2003-01-01T02:55:36.700Z",
-    "max": "2026-08-17T06:50:55.5Z"
+    "max": "2026-08-17T08:51:26.1Z"
   },
   "by_author": {
     "FUNV": 19671,
-    "FUNVISIS": 3953
+    "FUNVISIS": 3956
   },
   "source": "https://github.com/acarrerac/funvisis-catalog"
 }
